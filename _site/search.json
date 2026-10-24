@@ -1,0 +1,296 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Learning Lab*",
+    "section": "",
+    "text": "A space to learn, question, experiment, and understand.*\nA PERSONAL LEARNING JOURNAL BY ME, ZEHRA :)\nI’m working through the foundations of data science and machine learning while working full-time, with a particular focus on understanding the mathematics, statistics, and reasoning behind the methods we use.\nI created The Learning Lab to document that process — the concepts I’m exploring, the questions I’m asking, the experiments I’m running, and the connections I’m beginning to make."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hi, I’m Zehra.",
+    "section": "",
+    "text": "I’m an independent learner interested in data science, machine learning, and the mathematical ideas that make them work.\nAlongside working full-time, I’m following a structured, master’s-level learning curriculum in data science and machine learning. I’m strengthening my foundations, revisiting concepts I haven’t used in a while, and gradually working toward more advanced topics.\nThe Learning Lab is where I make that journey visible. It’s a space to organize my thinking, document what I learn, and turn individual concepts into a deeper, more connected understanding.\n\n\nWhat interests me is not only what these methods can do, but also why they work.\nI want to understand the mathematics behind an algorithm, the assumptions behind a statistical method, and the reasoning behind a model’s predictions. For me, learning a tool is only the beginning; understanding how to use it thoughtfully is what makes the knowledge valuable.\n\n\n\nI prefer to build knowledge step by step rather than skip over the fundamentals.\nThat means working through the theory, explaining concepts in my own words, testing my understanding with code, and returning to topics whenever I find a gap.\nI also believe that writing is part of learning. Putting an idea into words helps me see what I understand, what remains unclear, and which questions I should ask next.\n\n\n\nMy goal is to develop the technical depth and practical skills needed to pursue opportunities in data science and machine learning.\nI’m particularly interested in connecting theory with real-world problems through analysis, experimentation, and well-reasoned solutions.\nThis website is one part of that effort: a growing record of my learning, projects, and progress.\n\n\n\nI’m not using this space to present myself as someone who already knows everything. I’m here to build that knowledge deliberately and share what I discover along the way.\nSome pages will contain polished explanations; others may capture an idea I’m still working through. Both have a place here.\nOne concept, one question, one experiment at a time."
+  },
+  {
+    "objectID": "roadmap.html",
+    "href": "roadmap.html",
+    "title": "Learning Roadmap",
+    "section": "",
+    "text": "Building understanding, one layer at a time.\nMy learning path is designed to rebuild strong foundations before moving into more advanced data science and machine learning topics.\nRather than treating each subject as an isolated topic, I want to understand how the ideas connect — from mathematical principles to statistical reasoning and practical applications."
+  },
+  {
+    "objectID": "roadmap.html#foundations",
+    "href": "roadmap.html#foundations",
+    "title": "Learning Roadmap",
+    "section": "Foundations",
+    "text": "Foundations\nBuild a strong understanding of the mathematical tools behind data science and machine learning.\n\nLinear algebra\nCalculus and optimization\nProbability\nStatistics"
+  },
+  {
+    "objectID": "roadmap.html#data-science",
+    "href": "roadmap.html#data-science",
+    "title": "Learning Roadmap",
+    "section": "Data Science",
+    "text": "Data Science\nConnect mathematical foundations to data analysis and practical problem-solving.\n\nPython for data analysis\nExploratory data analysis\nData visualization\nStatistical inference"
+  },
+  {
+    "objectID": "roadmap.html#machine-learning",
+    "href": "roadmap.html#machine-learning",
+    "title": "Learning Roadmap",
+    "section": "04 / Machine Learning",
+    "text": "04 / Machine Learning\nUnderstanding how models learn from data.\n\nSupervised and unsupervised learning\nLinear and logistic regression\nDecision trees and ensemble methods\nModel evaluation and validation\nFeature engineering and regularization\nClustering and dimensionality reduction"
+  },
+  {
+    "objectID": "roadmap.html#current-focus",
+    "href": "roadmap.html#current-focus",
+    "title": "Learning Roadmap",
+    "section": "Current Focus",
+    "text": "Current Focus\nRevisiting the foundations.\nI’m strengthening my understanding of the mathematics and statistics that underpin data science and machine learning. The goal is not simply to remember formulas, but to understand where they come from, what they mean, and when they’re useful.\nThis roadmap will evolve as I learn. Topics may be revisited, reordered or expanded when a deeper understanding calls for it."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Technical Notes",
+    "section": "",
+    "text": "Ideas explored, questions examined, connections made.\nThis is where I document concepts as I work through the foundations of data science and machine learning.\nThese notes are part of my learning process. They help me organize ideas, test my understanding, and identify the gaps I need to work on. The goal is to explain concepts clearly in my own words, with the mathematics, reasoning, and examples that make them meaningful.\nNot every note needs to be perfect. Some will evolve as my understanding improves."
+  },
+  {
+    "objectID": "notes.html#mathematics-statistics",
+    "href": "notes.html#mathematics-statistics",
+    "title": "Technical Notes",
+    "section": "Mathematics & Statistics",
+    "text": "Mathematics & Statistics\nNotes on the mathematical foundations of data science.\nMore notes coming soon."
+  },
+  {
+    "objectID": "notes.html#data-science",
+    "href": "notes.html#data-science",
+    "title": "Technical Notes",
+    "section": "Data Science",
+    "text": "Data Science\nConcepts, methods, and practical techniques for working with data.\nMore notes coming soon."
+  },
+  {
+    "objectID": "notes.html#machine-learning",
+    "href": "notes.html#machine-learning",
+    "title": "Technical Notes",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nUnderstanding how models learn, make predictions, and generalize to new data.\nTopics include regression, classification, model evaluation, regularization, clustering, and the assumptions behind different algorithms.\nNotes coming soon."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "From theory to practice.\nUnderstanding a concept is one thing. Applying it to a real problem is another.\nThis is where I document practical experiments that connect my learning in mathematics, statistics, data science, and machine learning with code and real-world datasets.\nEach project is an opportunity to test an idea, make decisions, encounter problems, and understand what the results actually tell me."
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects & Experiments",
+    "section": "Projects",
+    "text": "Projects\nProjects will be added here as I develop them.\nFor each project, I aim to document:\n\nThe question: What am I trying to understand or solve?\nThe approach: Which concepts and methods am I using?\nThe implementation: How did I approach the problem in code?\nThe results: What did I discover?\nThe reflection: What worked, what didn’t, and what did I learn?"
+  },
+  {
+    "objectID": "index.html#mathematics-statistics",
+    "href": "index.html#mathematics-statistics",
+    "title": "The Learning Lab",
+    "section": "Mathematics & Statistics",
+    "text": "Mathematics & Statistics\nNotes on the mathematical foundations of data science.\nMore notes coming soon."
+  },
+  {
+    "objectID": "index.html#data-science",
+    "href": "index.html#data-science",
+    "title": "The Learning Lab",
+    "section": "Data Science",
+    "text": "Data Science\nConcepts, methods, and practical techniques for working with data.\nMore notes coming soon."
+  },
+  {
+    "objectID": "index.html#machine-learning",
+    "href": "index.html#machine-learning",
+    "title": "The Learning Lab",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nNotes on algorithms, model behavior, and the reasoning behind machine learning methods.\nMore notes coming soon. [ÖS 2:14, 24.10.2026] Zehra: — title: “Projects & Experiments” —\nA place to turn theory into practice.\nThis is where I will apply what I learn through small experiments, independent projects, and reproducible analyses."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "The Learning Lab",
+    "section": "Projects",
+    "text": "Projects\nProjects will be added here as I develop them.\nFor each project, I aim to document:\n\nThe question: What am I trying to understand or solve?\nThe approach: Which concepts and methods am I using?\nThe implementation: How did I approach the problem in code?\nThe results: What did I discover?\nThe reflection: What worked, what didn’t, and what did I learn? [ÖS 2:20, 24.10.2026] Zehra: — title: “The Learning Lab” —\n\nA space to learn, question, experiment, and understand.\nWelcome to my independent learning space.\nI’m building a deeper understanding of mathematics, statistics, data science, and machine learning — revisiting the foundations, connecting ideas, and putting theory into practice along the way.\nThis website is where I document that process: what I learn, what challenges me, what I discover, and how my understanding evolves."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "The Learning Lab",
+    "section": "What you’ll find here",
+    "text": "What you’ll find here\n\n\n\nLearning Roadmap\nThe concepts and subjects I’m studying, from mathematical foundations to machine learning.\n\n\nExplore the roadmap →\n\n\nTechnical Notes\nExplanations in my own words, with mathematical reasoning, code, and examples.\n\n\n\n\nBrowse the notes →\n\n\nProjects & Experiments\nPractical applications that turn theoretical understanding into something tangible.\n\n\nSee the projects →"
+  },
+  {
+    "objectID": "index.html#how-i-learn",
+    "href": "index.html#how-i-learn",
+    "title": "The Learning Lab",
+    "section": "How I learn",
+    "text": "How I learn\nUnderstand the foundations. Ask better questions. Experiment.\nI believe meaningful progress comes from understanding not just how something works, but why. My approach is to build knowledge step by step, test my understanding, and revisit ideas whenever I need to.\nThis is an ongoing process — and that’s the point.\nStill figuring things out."
+  },
+  {
+    "objectID": "about.html#a-little-about-me",
+    "href": "about.html#a-little-about-me",
+    "title": "About",
+    "section": "",
+    "text": "I’m an independent learner with a growing interest in data science, machine learning, and the mathematical ideas that make them work.\nAlongside working full-time, I’m following a structured, master’s-level learning curriculum in data science and machine learning. I’m revisiting core concepts, strengthening my technical foundations, and gradually building toward more advanced topics.\nI created The Learning Lab to make that journey visible — not just the polished results, but also the questions, experiments, and small breakthroughs that happen along the way."
+  },
+  {
+    "objectID": "about.html#why-im-doing-this",
+    "href": "about.html#why-im-doing-this",
+    "title": "About",
+    "section": "Why I’m doing this",
+    "text": "Why I’m doing this\nI don’t want to learn tools simply to use them. I want to understand the reasoning behind the methods, the assumptions behind the models, and the mathematics that connects everything together.\nThat means taking the time to revisit fundamentals, work through difficult concepts, and put what I learn into practice.\nIt’s a deliberate approach: build strong foundations, then build on them."
+  },
+  {
+    "objectID": "about.html#what-im-working-toward",
+    "href": "about.html#what-im-working-toward",
+    "title": "Hi, I’m Zehra.",
+    "section": "",
+    "text": "My goal is to develop the technical depth and practical skills needed to pursue opportunities in data science and machine learning.\nI’m particularly interested in connecting theory with real-world problems through analysis, experimentation, and well-reasoned solutions.\nThis website is one part of that effort: a growing record of my learning, projects, and progress."
+  },
+  {
+    "objectID": "about.html#why-document-the-journey",
+    "href": "about.html#why-document-the-journey",
+    "title": "About",
+    "section": "Why document the journey?",
+    "text": "Why document the journey?\nWriting helps me organize my thinking, identify gaps in my understanding, and explain concepts more clearly.\nBy sharing my notes, projects, and reflections, I hope to create a useful record of my progress — one that I can learn from and that others might find useful, too.\nThis website will evolve as I do.\nOne concept, one question, one experiment at a time."
+  },
+  {
+    "objectID": "index.html#title-the-learning-lab",
+    "href": "index.html#title-the-learning-lab",
+    "title": "The Learning Lab",
+    "section": "title: “The Learning Lab”",
+    "text": "title: “The Learning Lab”\n\nA space to learn, question, experiment, and understand.\n*\n\nA PERSONAL LEARNING JOURNAL BY ZEHRA\n\n\nA space to learn, question, experiment, and understand.\n\nI’m working through the foundations of data science and machine learning while working full-time, with a particular focus on understanding the mathematics, statistics, and reasoning behind the methods we use.\nI created The Learning Lab to document that process — the concepts I’m exploring, the questions I’m asking, the experiments I’m running, and the connections I’m beginning to make."
+  },
+  {
+    "objectID": "index.html#explore-the-lab",
+    "href": "index.html#explore-the-lab",
+    "title": "The Learning Lab*",
+    "section": "Explore the lab",
+    "text": "Explore the lab\n\n01 / The plan\n\nLearning Roadmap\nA structured path through mathematical foundations, statistics, data science, and machine learning.\nExplore the roadmap →\n\n\n\n02 / The thinking\n\nTechnical Notes\nConcepts explained in my own words, with mathematical reasoning, code, and examples.\nBrowse the notes →\n\n\n\n03 / The practice\n\nProjects & Experiments\nPractical explorations that connect theory with real data, code, and problem-solving.\nExplore the projects →\n\n\n\nLearning Roadmap\nA structured view of what I’m studying, from mathematical foundations to machine learning, and how the pieces fit together.\nExplore the roadmap →\n\n\nTechnical Notes\nConcepts explained in my own words, with mathematical reasoning, code, and examples that help turn unfamiliar ideas into lasting understanding.\nBrowse the notes →\n\n\nProjects & Experiments\nA place to apply what I learn, test ideas, work with data, and connect theory with practice.\nExplore the projects →"
+  },
+  {
+    "objectID": "index.html#my-approach",
+    "href": "index.html#my-approach",
+    "title": "The Learning Lab*",
+    "section": "My approach",
+    "text": "My approach\nUnderstand the why, not just the how.\nI believe strong technical skills are built on strong foundations. Rather than rushing through topics, I want to understand the reasoning behind the methods, recognize their assumptions, and know when and why to use them.\nThat means revisiting the basics, asking questions, making mistakes, and learning from the process.\nThis is a work in progress. The goal isn’t to know everything already — it’s to keep getting better at understanding.\nStill figuring things out."
+  },
+  {
+    "objectID": "about.html#title-about",
+    "href": "about.html#title-about",
+    "title": "Hi, I’m Zehra.",
+    "section": "title: “About”",
+    "text": "title: “About”"
+  },
+  {
+    "objectID": "about.html#why-data-science-and-machine-learning",
+    "href": "about.html#why-data-science-and-machine-learning",
+    "title": "Hi, I’m Zehra.",
+    "section": "",
+    "text": "What interests me is not only what these methods can do, but also why they work.\nI want to understand the mathematics behind an algorithm, the assumptions behind a statistical method, and the reasoning behind a model’s predictions. For me, learning a tool is only the beginning; understanding how to use it thoughtfully is what makes the knowledge valuable."
+  },
+  {
+    "objectID": "about.html#how-i-approach-learning",
+    "href": "about.html#how-i-approach-learning",
+    "title": "Hi, I’m Zehra.",
+    "section": "",
+    "text": "I prefer to build knowledge step by step rather than skip over the fundamentals.\nThat means working through the theory, explaining concepts in my own words, testing my understanding with code, and returning to topics whenever I find a gap.\nI also believe that writing is part of learning. Putting an idea into words helps me see what I understand, what remains unclear, and which questions I should ask next."
+  },
+  {
+    "objectID": "about.html#beyond-the-finished-result",
+    "href": "about.html#beyond-the-finished-result",
+    "title": "Hi, I’m Zehra.",
+    "section": "",
+    "text": "I’m not using this space to present myself as someone who already knows everything. I’m here to build that knowledge deliberately and share what I discover along the way.\nSome pages will contain polished explanations; others may capture an idea I’m still working through. Both have a place here.\nOne concept, one question, one experiment at a time."
+  },
+  {
+    "objectID": "index.html#explore-the-projects",
+    "href": "index.html#explore-the-projects",
+    "title": "The Learning Lab*",
+    "section": "Explore the projects →",
+    "text": "Explore the projects →"
+  },
+  {
+    "objectID": "roadmap.html#title-learning-roadmap",
+    "href": "roadmap.html#title-learning-roadmap",
+    "title": "The Learning Lab",
+    "section": "## title: “Learning Roadmap”",
+    "text": "## title: “Learning Roadmap”\n\nBuilding understanding, one layer at a time.\n\nMy learning path is designed to rebuild strong foundations before moving into more advanced data science and machine learning topics.\nRather than treating each subject as an isolated topic, I want to understand how the ideas connect — from mathematical principles to statistical reasoning and practical applications."
+  },
+  {
+    "objectID": "roadmap.html#mathematical-foundations",
+    "href": "roadmap.html#mathematical-foundations",
+    "title": "Learning Roadmap",
+    "section": "01 / Mathematical Foundations",
+    "text": "01 / Mathematical Foundations\nThe language behind the methods.\n\nLinear algebra: vectors, matrices, transformations, eigenvalues and eigenvectors\nCalculus: derivatives, partial derivatives, gradients and multivariable functions\nOptimization: loss functions, gradient descent and constrained optimization"
+  },
+  {
+    "objectID": "roadmap.html#probability-statistics",
+    "href": "roadmap.html#probability-statistics",
+    "title": "Learning Roadmap",
+    "section": "02 / Probability & Statistics",
+    "text": "02 / Probability & Statistics\nUnderstanding uncertainty, data and evidence.\n\nProbability theory and random variables\nCommon probability distributions\nExpectation, variance and covariance\nSampling and sampling distributions\nStatistical inference and hypothesis testing\nConfidence intervals and regression foundations"
+  },
+  {
+    "objectID": "roadmap.html#programming-data-analysis",
+    "href": "roadmap.html#programming-data-analysis",
+    "title": "Learning Roadmap",
+    "section": "03 / Programming & Data Analysis",
+    "text": "03 / Programming & Data Analysis\nTurning concepts into working solutions.\n\nPython fundamentals and clean, readable code\nNumPy and pandas\nData cleaning and exploratory data analysis\nData visualization and communicating findings\nSQL and working with structured data"
+  },
+  {
+    "objectID": "roadmap.html#advanced-topics-applications",
+    "href": "roadmap.html#advanced-topics-applications",
+    "title": "Learning Roadmap",
+    "section": "05 / Advanced Topics & Applications",
+    "text": "05 / Advanced Topics & Applications\nConnecting theory to more complex problems.\n\nNeural networks and deep learning fundamentals\nOptimization in machine learning\nModel interpretability and responsible evaluation\nEnd-to-end projects using real datasets\nCommunicating technical results and trade-offs"
+  },
+  {
+    "objectID": "notes.html#mathematics-linear-algebra",
+    "href": "notes.html#mathematics-linear-algebra",
+    "title": "Technical Notes",
+    "section": "Mathematics & Linear Algebra",
+    "text": "Mathematics & Linear Algebra\nThe mathematical language behind data science and machine learning.\nTopics include vectors, matrices, linear transformations, derivatives, gradients, and optimization.\nNotes coming soon."
+  },
+  {
+    "objectID": "notes.html#probability-statistics",
+    "href": "notes.html#probability-statistics",
+    "title": "Technical Notes",
+    "section": "Probability & Statistics",
+    "text": "Probability & Statistics\nThe tools for reasoning about uncertainty, variation, and evidence.\nTopics include probability distributions, expectation, variance, statistical inference, hypothesis testing, and regression.\nNotes coming soon."
+  },
+  {
+    "objectID": "notes.html#python-data-science",
+    "href": "notes.html#python-data-science",
+    "title": "Technical Notes",
+    "section": "Python & Data Science",
+    "text": "Python & Data Science\nTurning theoretical ideas into practical analysis.\nTopics include Python, NumPy, pandas, exploratory data analysis, data visualization, and SQL.\nNotes coming soon."
+  },
+  {
+    "objectID": "notes.html#how-i-write-these-notes",
+    "href": "notes.html#how-i-write-these-notes",
+    "title": "Technical Notes",
+    "section": "How I Write These Notes",
+    "text": "How I Write These Notes\nWhen exploring a concept, I aim to answer a few questions:\n\nWhat is it? Define the concept clearly.\nWhy does it matter? Understand the problem it helps solve.\nHow does it work? Explore the underlying reasoning and mathematics.\nCan I demonstrate it? Use an example, calculation, visualization, or piece of code.\nWhat do I still not understand? Record questions to revisit.\n\nThe notes will grow alongside my understanding. I want them to become a useful reference for myself and, hopefully, for others learning the same concepts."
+  },
+  {
+    "objectID": "projects.html#what-youll-find-here",
+    "href": "projects.html#what-youll-find-here",
+    "title": "Projects",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\n\nData Analysis\nExploring datasets, identifying patterns, investigating questions, and communicating findings through clear visualizations and statistical reasoning.\n\n\nStatistical Exploration\nUsing probability and statistical methods to investigate relationships, test assumptions, and understand uncertainty in data.\n\n\nMachine Learning\nImplementing and evaluating models while exploring how they work, why particular approaches are chosen, and where their limitations lie.\n\n\nExperiments & Mini-Projects\nSmall, focused investigations designed to test a concept, compare approaches, or answer a specific technical question."
+  },
+  {
+    "objectID": "projects.html#project-journal",
+    "href": "projects.html#project-journal",
+    "title": "Projects",
+    "section": "Project Journal",
+    "text": "Project Journal\nMy projects will be documented as I work through the curriculum. Each entry will focus not only on the final result, but also on the reasoning behind the work.\nFor each project, I aim to document:\n\nThe question: What problem am I trying to understand or solve?\nThe approach: Why did I choose this method?\nThe implementation: How did I put the idea into practice?\nThe results: What did I find, and how should the results be interpreted?\nThe reflection: What worked, what didn’t, and what would I improve?\n\nProjects will be added as the work takes shape."
+  }
+]

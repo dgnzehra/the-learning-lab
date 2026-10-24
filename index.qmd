@@ -1,0 +1,79 @@
+---
+title: "The Learning Lab*"
+---
+
+<p class="lab-tagline">A space to learn, question, experiment, and understand.*</p>
+<p class="intro-name">A PERSONAL LEARNING JOURNAL BY ME, ZEHRA :)</p>
+
+
+I'm working through the foundations of data science and machine learning while working full-time, with a particular focus on understanding the mathematics, statistics, and reasoning behind the methods we use.
+
+I created *The Learning Lab* to document that process — the concepts I'm exploring, the questions I'm asking, the experiments I'm running, and the connections I'm beginning to make.
+
+## Explore the lab
+::: {.lab-card}
+
+<span class="lab-label">01 / The plan</span>
+
+### Learning Roadmap
+
+A structured path through mathematical foundations, statistics, data science, and machine learning.
+
+[Explore the roadmap →](roadmap.qmd)
+
+:::
+
+::: {.lab-card}
+
+<span class="lab-label">02 / The thinking</span>
+
+### Technical Notes
+
+Concepts explained in my own words, with mathematical reasoning, code, and examples.
+
+[Browse the notes →](notes.qmd)
+
+:::
+
+::: {.lab-card}
+
+<span class="lab-label">03 / The practice</span>
+
+### Projects & Experiments
+
+Practical explorations that connect theory with real data, code, and problem-solving.
+
+[Explore the projects →](projects.qmd)
+
+:::
+
+### Learning Roadmap
+
+A structured view of what I'm studying, from mathematical foundations to machine learning, and how the pieces fit together.
+
+[Explore the roadmap →](roadmap.qmd)
+
+### Technical Notes
+
+Concepts explained in my own words, with mathematical reasoning, code, and examples that help turn unfamiliar ideas into lasting understanding.
+
+[Browse the notes →](notes.qmd)
+
+### Projects & Experiments
+
+A place to apply what I learn, test ideas, work with data, and connect theory with practice.
+
+[Explore the projects →](projects.qmd)
+
+---
+## My approach
+
+*Understand the why, not just the how.*
+
+I believe strong technical skills are built on strong foundations. Rather than rushing through topics, I want to understand the reasoning behind the methods, recognize their assumptions, and know when and why to use them.
+
+That means revisiting the basics, asking questions, making mistakes, and learning from the process.
+
+This is a work in progress. The goal isn't to know everything already — it's to keep getting better at understanding.
+
+Still figuring things out.

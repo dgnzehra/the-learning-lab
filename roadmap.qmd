@@ -1,0 +1,66 @@
+---
+title: "Learning Roadmap"
+---
+<p class="lab-tagline">Building understanding, one layer at a time.</p>
+
+My learning path is designed to rebuild strong foundations before moving into more advanced data science and machine learning topics.
+
+Rather than treating each subject as an isolated topic, I want to understand how the ideas connect — from mathematical principles to statistical reasoning and practical applications.
+
+## 01 / Mathematical Foundations
+
+The language behind the methods.
+
+* [ ] Linear algebra: vectors, matrices, transformations, eigenvalues and eigenvectors
+* [ ] Calculus: derivatives, partial derivatives, gradients and multivariable functions
+* [ ] Optimization: loss functions, gradient descent and constrained optimization
+
+## 02 / Probability & Statistics
+
+Understanding uncertainty, data and evidence.
+
+* [ ] Probability theory and random variables
+* [ ] Common probability distributions
+* [ ] Expectation, variance and covariance
+* [ ] Sampling and sampling distributions
+* [ ] Statistical inference and hypothesis testing
+* [ ] Confidence intervals and regression foundations
+
+## 03 / Programming & Data Analysis
+
+Turning concepts into working solutions.
+
+* [ ] Python fundamentals and clean, readable code
+* [ ] NumPy and pandas
+* [ ] Data cleaning and exploratory data analysis
+* [ ] Data visualization and communicating findings
+* [ ] SQL and working with structured data
+
+## 04 / Machine Learning
+
+Understanding how models learn from data.
+
+* [ ] Supervised and unsupervised learning
+* [ ] Linear and logistic regression
+* [ ] Decision trees and ensemble methods
+* [ ] Model evaluation and validation
+* [ ] Feature engineering and regularization
+* [ ] Clustering and dimensionality reduction
+
+## 05 / Advanced Topics & Applications
+
+Connecting theory to more complex problems.
+
+* [ ] Neural networks and deep learning fundamentals
+* [ ] Optimization in machine learning
+* [ ] Model interpretability and responsible evaluation
+* [ ] End-to-end projects using real datasets
+* [ ] Communicating technical results and trade-offs
+
+## Current Focus
+
+*Revisiting the foundations.*
+
+I'm strengthening my understanding of the mathematics and statistics that underpin data science and machine learning. The goal is not simply to remember formulas, but to understand where they come from, what they mean, and when they're useful.
+
+This roadmap will evolve as I learn. Topics may be revisited, reordered or expanded when a deeper understanding calls for it.

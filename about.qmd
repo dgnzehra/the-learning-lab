@@ -1,0 +1,42 @@
+---
+## title: "About"
+---
+
+# Hi, I'm Zehra.
+
+
+I'm an independent learner interested in data science, machine learning, and the mathematical ideas that make them work.
+
+Alongside working full-time, I'm following a structured, master's-level learning curriculum in data science and machine learning. I'm strengthening my foundations, revisiting concepts I haven't used in a while, and gradually working toward more advanced topics.
+
+*The Learning Lab is where I make that journey visible.* It's a space to organize my thinking, document what I learn, and turn individual concepts into a deeper, more connected understanding.
+
+## Why data science and machine learning?
+
+What interests me is not only what these methods can do, but also why they work.
+
+I want to understand the mathematics behind an algorithm, the assumptions behind a statistical method, and the reasoning behind a model's predictions. For me, learning a tool is only the beginning; understanding how to use it thoughtfully is what makes the knowledge valuable.
+
+## How I approach learning
+
+I prefer to build knowledge step by step rather than skip over the fundamentals.
+
+That means working through the theory, explaining concepts in my own words, testing my understanding with code, and returning to topics whenever I find a gap.
+
+I also believe that writing is part of learning. Putting an idea into words helps me see what I understand, what remains unclear, and which questions I should ask next.
+
+## What I'm working toward
+
+My goal is to develop the technical depth and practical skills needed to pursue opportunities in data science and machine learning.
+
+I'm particularly interested in connecting theory with real-world problems through analysis, experimentation, and well-reasoned solutions.
+
+This website is one part of that effort: a growing record of my learning, projects, and progress.
+
+## Beyond the finished result
+
+I'm not using this space to present myself as someone who already knows everything. I'm here to build that knowledge deliberately and share what I discover along the way.
+
+Some pages will contain polished explanations; others may capture an idea I'm still working through. Both have a place here.
+
+*One concept, one question, one experiment at a time.*

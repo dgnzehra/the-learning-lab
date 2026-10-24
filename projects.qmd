@@ -1,0 +1,42 @@
+---
+title: "Projects"
+---
+<p class="lab-tagline">From theory to practice.</p>
+
+Understanding a concept is one thing. Applying it to a real problem is another.
+
+This is where I document practical experiments that connect my learning in mathematics, statistics, data science, and machine learning with code and real-world datasets.
+
+Each project is an opportunity to test an idea, make decisions, encounter problems, and understand what the results actually tell me.
+
+## What You'll Find Here
+
+### Data Analysis
+
+Exploring datasets, identifying patterns, investigating questions, and communicating findings through clear visualizations and statistical reasoning.
+
+### Statistical Exploration
+
+Using probability and statistical methods to investigate relationships, test assumptions, and understand uncertainty in data.
+
+### Machine Learning
+
+Implementing and evaluating models while exploring how they work, why particular approaches are chosen, and where their limitations lie.
+
+### Experiments & Mini-Projects
+
+Small, focused investigations designed to test a concept, compare approaches, or answer a specific technical question.
+
+## Project Journal
+
+My projects will be documented as I work through the curriculum. Each entry will focus not only on the final result, but also on the reasoning behind the work.
+
+For each project, I aim to document:
+
+* *The question:* What problem am I trying to understand or solve?
+* *The approach:* Why did I choose this method?
+* *The implementation:* How did I put the idea into practice?
+* *The results:* What did I find, and how should the results be interpreted?
+* *The reflection:* What worked, what didn't, and what would I improve?
+
+Projects will be added as the work takes shape.

@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "The Learning Lab"
+  description: "A space to learn, question, experiment, and understand."
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: roadmap.qmd
+        text: Learning Roadmap
+      - href: notes.qmd
+        text: Notes
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+
+  page-footer:
+    center: "Still figuring things out."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true

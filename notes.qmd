@@ -1,0 +1,55 @@
+---
+title: "Technical Notes"
+---
+
+<p class="lab-tagline">Ideas explored, questions examined, connections made.</p>
+
+This is where I document concepts as I work through the foundations of data science and machine learning.
+
+These notes are part of my learning process. They help me organize ideas, test my understanding, and identify the gaps I need to work on. The goal is to explain concepts clearly in my own words, with the mathematics, reasoning, and examples that make them meaningful.
+
+Not every note needs to be perfect. Some will evolve as my understanding improves.
+
+## Mathematics & Linear Algebra
+
+The mathematical language behind data science and machine learning.
+
+Topics include vectors, matrices, linear transformations, derivatives, gradients, and optimization.
+
+Notes coming soon.
+
+## Probability & Statistics
+
+The tools for reasoning about uncertainty, variation, and evidence.
+
+Topics include probability distributions, expectation, variance, statistical inference, hypothesis testing, and regression.
+
+Notes coming soon.
+
+## Python & Data Science
+
+Turning theoretical ideas into practical analysis.
+
+Topics include Python, NumPy, pandas, exploratory data analysis, data visualization, and SQL.
+
+Notes coming soon.
+
+## Machine Learning
+
+Understanding how models learn, make predictions, and generalize to new data.
+
+Topics include regression, classification, model evaluation, regularization, clustering, and the assumptions behind different algorithms.
+
+Notes coming soon.
+
+## How I Write These Notes
+
+When exploring a concept, I aim to answer a few questions:
+
+* *What is it?* Define the concept clearly.
+* *Why does it matter?* Understand the problem it helps solve.
+* *How does it work?* Explore the underlying reasoning and mathematics.
+* *Can I demonstrate it?* Use an example, calculation, visualization, or piece of code.
+* *What do I still not understand?* Record questions to revisit.
+
+The notes will grow alongside my understanding. I want them to become a useful reference for myself and, hopefully, for others learning the same concepts.
